@@ -23,7 +23,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
-- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657/) by David A. Black.
+- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
 - [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz.
 
 **Ruby on Rails for beginners**
@@ -52,7 +52,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
 - [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
-- [The Guide to Cuba](http://theguidetocuba.io) — this book will teach you how to create a Ruby web application from scratch using Cuba microframework.
 
 ## Blogs
 
@@ -91,7 +90,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [RubyMonk](https://rubymonk.com) — free, interactive tutorials to help you discover Ruby idioms, in your browser!
 - [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
-- [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 
 ## Style Guides
 
@@ -99,7 +97,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
 - See also: [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
-- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
 
 ## Podcasts
 
@@ -153,9 +150,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
     - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
 
-- [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
-
-
 **Deployment Automation and Configuration Management**
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
@@ -186,9 +180,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
-- [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
-
-[Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
 
 ### API
 
@@ -207,7 +198,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 - [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
-- [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 
 ### Authentication and Authorization
 
@@ -288,13 +278,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
 - [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
-
-### SDK, API Wrappers, Service Clients
-
-- [Yt](https://github.com/Fullscreen/yt) — YouTube API Ruby client.
-- [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
-- [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
-- [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
 
 ### Testing
 
