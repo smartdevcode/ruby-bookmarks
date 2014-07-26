@@ -94,6 +94,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
+- [Jumpstart Lab](http://tutorials.jumpstartlab.com/) - a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
+- [RubyOffRails](https://rubyoffrails.com/) - An online Ruby course recently open sourced.
+- [The Odin Project](http://www.theodinproject.com/ruby-programming) - an online Ruby lesson plan with a community to help.
 
 ## Style Guides
 
@@ -250,8 +253,10 @@ See also:
 - [Better Errors](https://github.com/charliesome/better_errors) — replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 - [Quiet Assets](https://github.com/evrone/quiet_assets) — turns off the Rails asset pipeline log.
 - [RailsAdmin](https://github.com/sferik/rails_admin) — a Rails engine that provides an easy-to-use interface for managing your data.
-- [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
 - [paper_trail](https://github.com/airblade/paper_trail) — track changes to your models' data. Good for auditing or versioning.Track changes to your models' data. Good for auditing or versioning.
+- [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
+- [gemoji](https://github.com/github/gemoji) — emoji images and names.
+- [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
 
 ### Rack
 
