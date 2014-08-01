@@ -347,11 +347,6 @@ See also:
 
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
 
-### Syntax Highlighters
-
-- [Rouge](https://github.com/jneen/rouge) — a pure-ruby code highlighter that is compatible with pygments.
-- [pygments.rb](https://github.com/tmm1/pygments.rb) — a Ruby wrapper for the Python [pygments](http://pygments.org) syntax highlighter.
-
 ### Template engines
 
 - [Mustache](https://github.com/defunkt/mustache) — logic-less Ruby templates. A framework-agnostic way to render logic-free views.
@@ -428,3 +423,4 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
 - [MicroMachine](https://github.com/soveran/micromachine) — minimal Finite State Machine.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
+- [Memoist](https://github.com/matthewrudy/memoist) — an extraction of ActiveSupport::Memoizable with few extensions.
