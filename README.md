@@ -253,6 +253,7 @@ See also:
 
 - [Rack::Timeout](https://github.com/heroku/rack-timeout) — abort requests that are taking too long.
 - [Rack::Protection](http://rkh.github.io/rack-protection/) — protects against typical web attacks. Should work for all Rack apps, including Rails.
+- [Rack::LiveReload](https://github.com/johnbintz/rack-livereload) — Bring in `livereload.js` into handy Rack middleware. No need for browser extensions anymore! Just plug it in your middleware stack and go! Even supports browsers without WebSockets!
 
 ### Authentication and Authorization
 
@@ -347,6 +348,11 @@ Binary:
 See also:
 
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
+
+### Syntax Highlighters
+
+- [Rouge](https://github.com/jneen/rouge) — a pure-ruby code highlighter that is compatible with pygments.
+- [pygments.rb](https://github.com/tmm1/pygments.rb) — a Ruby wrapper for the Python [pygments](http://pygments.org) syntax highlighter.
 
 ### Template engines
 
