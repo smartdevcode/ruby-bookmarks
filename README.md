@@ -140,7 +140,6 @@ See also:
 - ★ [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) — a brand-new hackable text editor from Github.
-- [Visual Studio Code](code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
 ### Code quality analysis
 
@@ -511,7 +510,7 @@ Binary:
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
 - ★ [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
-- [Lotus](https://github.com/lotus/lotus) — a complete MVC web framework.
+- [Hanami](https://github.com/hanami/hanami) — a complete, modern web framework.
 - [Roda](http://roda.jeremyevans.net) — a new ruby web framework, allowing for fast and DRY code using a routing tree. Find out [why you should use it](http://roda.jeremyevans.net/why.html).
 
 See also:
