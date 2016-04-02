@@ -140,6 +140,7 @@ See also:
 - ★ [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) — a brand-new hackable text editor from Github.
+- [Visual Studio Code](code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
 ### Code quality analysis
 
@@ -295,6 +296,7 @@ See also:
 ### Configuration and environment variables
 
 - ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- [Chamber](https://github.com/thekompanee/chamber) — A surprisingly configurable convention-based approach to managing your application's custom configuration settings.
 - [Figaro](https://github.com/laserlemon/figaro) — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 
 ### Debugging
