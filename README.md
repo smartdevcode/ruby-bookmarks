@@ -74,6 +74,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [Black Bytes](http://www.blackbytes.info) — Ruby tutorials
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
+- [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
 ## Screencasts and courses
 
@@ -201,6 +202,7 @@ See also:
 - [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 - [eye](https://github.com/kostya/eye) — a process monitor.
 - [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
+- [DuckRails](https://github.com/iridakos/duckrails) - development tool for mocking API endpoints quickly & dynamically.
 
 ## Quizzes, tests, exams
 
@@ -296,7 +298,6 @@ See also:
 ### Configuration and environment variables
 
 - ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
-- [Chamber](https://github.com/thekompanee/chamber) — A surprisingly configurable convention-based approach to managing your application's custom configuration settings.
 - [Figaro](https://github.com/laserlemon/figaro) — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 
 ### Debugging
