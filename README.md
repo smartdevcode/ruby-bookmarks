@@ -36,6 +36,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner.
+- [THE RUBY ON RAILS TUTORIAL](https://www.railstutorial.org/book) by Michael Hartl
 
 ### Ruby on Rails, advanced level
 
@@ -74,7 +75,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [Black Bytes](http://www.blackbytes.info) — Ruby tutorials
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
-- [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
 ## Screencasts and courses
 
@@ -109,6 +109,7 @@ Rails or databases previously. Good for beginners.
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
+- [Algorithms and Data Structures in Ruby](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 - [Jumpstart Lab](http://tutorials.jumpstartlab.com/) — a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
 - [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
 - [The Odin Project](http://www.theodinproject.com/ruby-programming) — an online Ruby lesson plan with a community to help.
@@ -202,7 +203,6 @@ See also:
 - [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 - [eye](https://github.com/kostya/eye) — a process monitor.
 - [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
-- [DuckRails](https://github.com/iridakos/duckrails) - development tool for mocking API endpoints quickly & dynamically.
 
 ## Quizzes, tests, exams
 
@@ -298,6 +298,7 @@ See also:
 ### Configuration and environment variables
 
 - ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- [Chamber](https://github.com/thekompanee/chamber) — A surprisingly configurable convention-based approach to managing your application's custom configuration settings.
 - [Figaro](https://github.com/laserlemon/figaro) — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 
 ### Debugging
