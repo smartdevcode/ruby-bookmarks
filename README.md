@@ -4,11 +4,74 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. The 
 
 ★&nbsp;stands here for Editors' Choice.
 
-This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
+This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
 **[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md)**
 
 PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) for other community-driven bookmark collections.
+
+## Table of Contents
+
+- [Books](#books)
+  - [For beginners and intermediate level developers ](#for-beginners-and-intermediate-level-developers)
+  - [Advancing Ruby knowledge](#advancing-ruby-knowledge)
+  - [Ruby on Rails for beginners](#ruby-on-rails-for-beginners)
+  - [Ruby on Rails, advanced level](#ruby-on-rails-advanced-level)
+  - [Testing](#testing)
+  - [Other frameworks and tools](#other-frameworks-and-tools)
+- [Blogs](#blogs)
+- [Screencasts and courses](#screencasts-and-courses)
+- [Other Learning Materials](#other-learning-materials)
+- [Style Guides](#style-guides)
+- [Podcasts](#podcasts)
+- [Tools](#tools)
+  - [IDEs and text editors](#ides-and-text-editors)
+  - [Code quality analysis](#code-quality-analysis)
+  - [Environment management](#environment-management)
+  - [Ruby distributions](#ruby-distributions)
+  - [Documentation](#documentation)
+  - [Application and Web Servers](#application-and-web-servers)
+  - [Deployment Automation and Configuration Management](#deployment-automation-and-configuration-management)
+  - [Other tools](#other-tools)
+- [Quizzes, tests, exams](#quizzes-tests-exams)
+- [Hosting](#hosting)
+  - [VPS](#vps)
+  - [PAAS](#paas)
+  - [Some materials on Rails deployment](#some-materials-on-rails-deployment)
+- [Gems](#gems)
+  - [ActiveRecord](#activerecord)
+  - [API](#api)
+  - [Authentication](#authentication)
+  - [Authorization](#authorization)
+  - [Avatars](#avatars)
+  - [Background Jobs](#background-jobs)
+  - [Bootstrap](#bootstrap)
+  - [CLI](#cli)
+  - [CSS](#css)
+  - [Configuration and environment variables](#configuration-and-environment-variables)
+  - [Debugging](#debugging)
+  - [E-commerce](#e-commerce)
+  - [Graphics](#graphics)
+  - [HTML, XML](#html-xml)
+  - [Logging](#logging)
+  - [Mail](#mail)
+  - [Markdown](#markdown)
+  - [Message Queuing](#message-queuing)
+  - [Misc](#misc)
+  - [Multithreading](#multithreading)
+  - [Profiling and Performance](#profiling-and-performance)
+  - [Rack](#rack)
+  - [Rails](#rails)
+  - [Scheduling](#scheduling)
+  - [SDKs and API Wrapers](#sdks-and-api-wrapers)
+  - [Search](#search)
+  - [Security](#security)
+  - [Serialization](#serialization)
+  - [Syntax Highlighters](#syntax-highlighters)
+  - [Template engines](#template-engines)
+  - [Testing](#testing)
+  - [Web Frameworks](#web-frameworks)
+
 
 ## Books
 
