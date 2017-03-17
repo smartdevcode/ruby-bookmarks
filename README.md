@@ -4,7 +4,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. The 
 
 ★&nbsp;stands here for Editors' Choice.
 
-This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
+This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
 **[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md)**
 
@@ -140,6 +140,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [Black Bytes](http://www.blackbytes.info) — Ruby tutorials
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
+- [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
 ## Screencasts and courses
 
@@ -268,6 +269,7 @@ See also:
 - [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 - [eye](https://github.com/kostya/eye) — a process monitor.
 - [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
+- [DuckRails](https://github.com/iridakos/duckrails) - development tool for mocking API endpoints quickly & dynamically.
 
 ## Quizzes, tests, exams
 
@@ -285,7 +287,6 @@ See also:
 ### PAAS
 
 - [Heroku](https://heroku.com) — cloud computing designed and built for developers. [More details](https://devcenter.heroku.com/categories/language-support#ruby) on Ruby support.
-- [NineFold](https://ninefold.com) — Rails-friendly hosting with a generous free tier (1.5 GB RAM, 1 CPU, 25 GB for DataBase server in the US region). Credit card required even if you fit the free tier.
 - [OpenShift](https://www.openshift.com) — Red Hat's Platform-as-a-Service that allows developers to quickly develop, host, and scale applications in a cloud environment. Capable for Rails apps [git-push deployment](https://www.openshift.com/developers/ruby). There also [a free tier](https://www.openshift.com/products/pricing) (no credit card required).
 - [AppFog](https://appfog.com) — another developer-friendly cloud service.
 
