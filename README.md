@@ -149,7 +149,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
-- [RubyPlus](https://rubyplus.com/episodes)
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
@@ -448,6 +447,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [Libnotify](https://github.com/splattael/libnotify) — Ruby bindings for libnotify, a crossplatform user notification library.
 - [MemFs](https://github.com/simonc/memfs) — provides a fake file system that can be used for tests.
 - [Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests.
+- [wannabe_bool](https://github.com/prodis/wannabe_bool) — If string, numeric, symbol and nil values wanna be a boolean value, they can with the new #to_b method (and more).
 
 ### Multithreading
 
