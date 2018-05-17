@@ -144,13 +144,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
 - [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
-## Community Resources
-
-- [Ruby on Rails Survey](http://rails-hosting.com/) -- a biennial survey of the Ruby on Rails community.
-- [/r/rails](http://reddit.com/r/rails) -- Rails community on Reddit
-- [stackoverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) -- Questions tagged with 'ruby-on-rails'
-- [Ruby on Rails: Talk](https://groups.google.com/forum/#!forum/rubyonrails-talk) -- Google Groups / Ruby on Rails
-
 ## Screencasts and courses
 
 - ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
@@ -167,7 +160,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
 - ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
-- [RubySteps](http://patmaddox.com/rubysteps/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
+- [RubySteps](https://www.rubysteps.com/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
 - [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
   screencasts. It assumes you know little about programming and not used Ruby,
 Rails or databases previously. Good for beginners.
