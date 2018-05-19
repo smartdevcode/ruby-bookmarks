@@ -144,12 +144,22 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
 - [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
+## Community Resources
+
+- [Ruby on Rails Survey](http://rails-hosting.com) — a biennial survey of the Ruby on Rails community.
+- [/r/rails](http://reddit.com/r/rails) — Ruby community on Reddit.
+- [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
+- [Ruby on Rails: Talk](https://groups.google.com/forum/#!forum/rubyonrails-talk) — Ruby on Rails at Google Groups.
+
 ## Screencasts and courses
 
 - ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- [RubyPlus](https://rubyplus.com/episodes)
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
