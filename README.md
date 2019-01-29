@@ -160,6 +160,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- [Ruby From Scratch](https://www.codemy.net/posts/rfs-introduction-to-ruby-001/sets/ruby-from-scratch)
+- [Rails Foundation](https://www.codemy.net/posts/rails-generating-an-app/sets/rails-foundation)
+- [Rails API](https://www.codemy.net/posts/rails-api-generating-an-api-only-rails-app-001/sets/rails-api)
 - [RubyPlus](https://rubyplus.com/episodes)
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
@@ -195,7 +198,6 @@ Rails or databases previously. Good for beginners.
 - [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
 - [The Odin Project](http://www.theodinproject.com/ruby-programming) — an online Ruby lesson plan with a community to help.
 - [Ruby one liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/ruby_one_liners.md) (a page from Command Line Text Processing project).
-- [Ruby Regexp](https://leanpub.com/rubyregexp) — free ebook to learn Ruby regular expressions, includes exercises.
 
 ## Style Guides
 
