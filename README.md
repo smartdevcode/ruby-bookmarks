@@ -110,6 +110,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
 - [Ruby Science](https://gumroad.com/l/ruby-science) by *thoughtbot*
 - [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
+- [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by *Nate Berkopec*
 
 ### Testing
 
@@ -232,7 +233,7 @@ See also:
 
 ### Environment management
 
-- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 - [chruby](https://github.com/postmodern/chruby) — a tool that changes the current Ruby.
